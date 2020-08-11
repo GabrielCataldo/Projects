@@ -1,5 +1,5 @@
 # Projects
-Projeto feito com SPRING MVC, JSP, JAVA, JQUERY, AJAX e com BANCO DE DADOS POSTGRESQL
+Projeto Netbeans feito com SPRING MVC, JSP, JAVA, JQUERY, AJAX e com BANCO DE DADOS POSTGRESQL e WAMPP
 
 Recursos:
 
