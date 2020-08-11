@@ -13,5 +13,9 @@ Recursos Adicionais:
 -Preenchimento automático de endereço pelo CEP
 -Cliente poderá escolher quantos Contatos ele quer cadastrar, alterar ou excluir
 
+O que sentir que faltou:
+-Controle de pilha de telas, como por exemplo a possibilidade de voltar para um formulario já finalizado.
 
+Porque nao fiz isso? 
+Isso tudo é muito novo para mim, leva tempo e como o projeto está em atraso não posso deixar que atrase ainda mais.
 
