@@ -29,14 +29,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.portlet.ModelAndView;
 
-/**
- *
- * @author User
- */
 @Controller
 public class Global_Controller {
 
-    @RequestMapping("/home")
+   @RequestMapping({"/home", "/"})
     public String iniciando() {
 
         return "home";
