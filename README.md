@@ -2,9 +2,22 @@ Projeto Netbeans feito com SPRING MVC, JSP, JAVA, JQUERY, AJAX e com BANCO DE DA
 
 ---------------------- IMPORTANTE ------------------------------ PARA TESTAR:
 
-1- NETBEANS IDE 8.2 2- WAMPP 3- POSTGRESSQL 12 com senha de acesso: 1503Obost 4-FAZER O RESTORE DAS TABELAS EM UM BANCO DE DADOS COM NOME ADMIN. / OU FAZER O BACKUP DO BANCO DE DADOS ADMIN. QUE FOI JUNTO AO PROJETO BAIXADO;
-5-IMPORTAR AS BIBLIOTECAS postgresql-9.4.1209.jar E mysql-connector-java-5.1.23-bin.jar QUE FOI JUNTO AO PROJETO BAIXADO; 6-RODAR O WAMPP SERVER COM TOMCAT 7-EXECUTAR O PROJETO PELO NETBEANS PARA NAVEGADORES EXTERNOS
+1- NETBEANS IDE 8.2 
+___________________________________________________________________________________________________________________________________________________________________________________
+2- WAMPP 
+___________________________________________________________________________________________________________________________________________________________________________________
+3- POSTGRESSQL 12 com senha de acesso: 1503Obost 
+___________________________________________________________________________________________________________________________________________________________________________________
+4-FAZER O RESTORE DAS TABELAS EM UM BANCO DE DADOS COM NOME ADMIN. / OU FAZER O BACKUP DO BANCO DE DADOS ADMIN. QUE FOI JUNTO AO PROJETO BAIXADO;
+___________________________________________________________________________________________________________________________________________________________________________________
+5-IMPORTAR AS BIBLIOTECAS postgresql-9.4.1209.jar E mysql-connector-java-5.1.23-bin.jar QUE FOI JUNTO AO PROJETO BAIXADO; 
+___________________________________________________________________________________________________________________________________________________________________________________
+6-RODAR O WAMPP SERVER COM TOMCAT 
+___________________________________________________________________________________________________________________________________________________________________________________
+7-EXECUTAR O PROJETO PELO NETBEANS PARA NAVEGADORES EXTERNOS
+___________________________________________________________________________________________________________________________________________________________________________________
 
-========================== 
+
+___________________________________________________________________________________________________________________________________________________________________________________
 -> QUALQUER DÚVIDA ENTRAR EM CONTATO COM WHATSAPP 47 99757-6130;
 -> PODEMOS TESTAR TAMBÉM COM O TEAMVIEWER E POSSO FAZER A APRESENTAÇÃO. APENAS ENTRE EM CONTATO SOLICITANDO;
