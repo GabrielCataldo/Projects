@@ -349,7 +349,7 @@
 
                     <c:if test="${registro != null}">
                         <div class="col-lg-12" style="margin-bottom: 20px;" >
-                            <h1 data-aos="fade-up-right" data-aos-delay="600" class="mb-6 display-3" style="font-size: 4.1rem;">Alterar Registro</h1>
+                            <h1 class="mb-6 display-3" style="font-size: 4.1rem;">Alterar Registro</h1>
                             <p  class="col-lg-6" data-aos="fade-up-right" data-aos-delay="800" style="padding:0px; margin-top: 40px;" >Altere o registro selecionado ou o exclua abaixo:</p>
                             <!--<button  type="button" onclick="redirecionar_registro()" class="web_visible btn btn-outline-primary" style="margin-top: 40px; border-radius: 15px; font-size: 18px; padding-top: 15px; padding-bottom: 15px; padding-left: 35px; padding-right: 35px;" class="btn btn-outline-primary">Começar</button> -->
                         </div>
@@ -357,7 +357,7 @@
 
                     <c:if test="${registro == null}">
                         <div class="col-lg-12" style="margin-bottom: 20px;" >
-                            <h1 data-aos="fade-up-right" data-aos-delay="600" class="mb-6 display-3" style="font-size: 4.1rem;">Adicionar Registro</h1>
+                            <h1 class="mb-6 display-3" style="font-size: 4.1rem;">Adicionar Registro</h1>
                             <p  class="col-lg-6" data-aos="fade-up-right" data-aos-delay="800" style="padding:0px; margin-top: 40px;" >Preencha os campos abaixo para salvar um novo registro:</p>
                             <!--<button  type="button" onclick="redirecionar_registro()" class="web_visible btn btn-outline-primary" style="margin-top: 40px; border-radius: 15px; font-size: 18px; padding-top: 15px; padding-bottom: 15px; padding-left: 35px; padding-right: 35px;" class="btn btn-outline-primary">Começar</button> -->
                         </div>
